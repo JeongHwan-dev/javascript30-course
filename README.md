@@ -35,7 +35,7 @@
 
 | no  |             강의 제목             | 수행 날짜 |
 | :-: | :-------------------------------: | :-------: |
-|  1  |        JavaScript Drum Kit        |     -     |
+|  1  |        JavaScript Drum Kit        |  09.01.   |
 |  2  |          CSS + JS Clock           |     -     |
 |  3  | Playing with CSS Variables and JS |     -     |
 |  4  |        Array Cardio Day 1         |     -     |
