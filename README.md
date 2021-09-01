@@ -1,6 +1,8 @@
 <div align="center">    
   <br />
-  <img src="./img/js30_logo.jpg" alt="JavaScript 30" height="300px" />
+  <img src="./img/js30_logo.jpg" alt="JavaScript 30" height="250px" />
+  <hr />
+  <br />
   <br />
 </div>
 
