@@ -3,7 +3,6 @@
   <img src="./img/js30_logo.jpg" alt="JavaScript 30" height="250px" />
   <hr />
   <br />
-  <br />
 </div>
 
 ## 목차
