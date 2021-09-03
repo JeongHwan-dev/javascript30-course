@@ -32,10 +32,10 @@
 
 ## 📅 챌린지 진행 일정
 
-| no  |                                                   강의 제목                                                    | 수행 날짜 |
-| :-: | :------------------------------------------------------------------------------------------------------------: | :-------: |
-|  1  | [JavaScript Drum Kit](https://github.com/JeongHwan-dev/javascript30-course/tree/master/01-JavaScript-Drum-Kit) |  09.01.   |
-|  2  |       [CSS + JS Clock](https://github.com/JeongHwan-dev/javascript30-course/tree/master/02-CSS-JS-Clock)       |  09.02.   |
-|  3  |                                       Playing with CSS Variables and JS                                        |     -     |
-|  4  |                                               Array Cardio Day 1                                               |     -     |
-|  5  |                                           Flex Pannels Image Gallery                                           |     -     |
+| no  |                                                       강의 제목                                                        | 수행 날짜 |
+| :-: | :--------------------------------------------------------------------------------------------------------------------: | :-------: |
+|  1  |     [JavaScript Drum Kit](https://github.com/JeongHwan-dev/javascript30-course/tree/master/01-JavaScript-Drum-Kit)     |  09.01.   |
+|  2  |           [CSS + JS Clock](https://github.com/JeongHwan-dev/javascript30-course/tree/master/02-CSS-JS-Clock)           |  09.02.   |
+|  3  | [Playing with CSS Variables and JS](https://github.com/JeongHwan-dev/javascript30-course/tree/master/03-CSS-Variables) |  09.03.   |
+|  4  |                                                   Array Cardio Day 1                                                   |     -     |
+|  5  |                                               Flex Pannels Image Gallery                                               |     -     |
