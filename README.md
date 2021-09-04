@@ -37,5 +37,5 @@
 |  1  |     [JavaScript Drum Kit](https://github.com/JeongHwan-dev/javascript30-course/tree/master/01-JavaScript-Drum-Kit)     |  09.01.   |
 |  2  |           [CSS + JS Clock](https://github.com/JeongHwan-dev/javascript30-course/tree/master/02-CSS-JS-Clock)           |  09.02.   |
 |  3  | [Playing with CSS Variables and JS](https://github.com/JeongHwan-dev/javascript30-course/tree/master/03-CSS-Variables) |  09.03.   |
-|  4  |                                                   Array Cardio Day 1                                                   |     -     |
+|  4  |       [Array Cardio Day](https://github.com/JeongHwan-dev/javascript30-course/tree/master/04-Array-Cardio-Day1)        |  09.04.   |
 |  5  |                                               Flex Pannels Image Gallery                                               |     -     |
