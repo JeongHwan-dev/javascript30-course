@@ -32,15 +32,15 @@
 
 ## 📅 챌린지 진행 일정
 
-| no  |                                                       강의 제목                                                        | 수행 날짜 |
-| :-: | :--------------------------------------------------------------------------------------------------------------------: | :-------: |
-|  1  |     [JavaScript Drum Kit](https://github.com/JeongHwan-dev/javascript30-course/tree/master/01-JavaScript-Drum-Kit)     |  09.01.   |
-|  2  |           [CSS + JS Clock](https://github.com/JeongHwan-dev/javascript30-course/tree/master/02-CSS-JS-Clock)           |  09.02.   |
-|  3  | [Playing with CSS Variables and JS](https://github.com/JeongHwan-dev/javascript30-course/tree/master/03-CSS-Variables) |  09.03.   |
-|  4  |       [Array Cardio Day](https://github.com/JeongHwan-dev/javascript30-course/tree/master/04-Array-Cardio-Day1)        |  09.04.   |
-|  5  |                                               Flex Pannels Image Gallery                                               |     -     |
-|  6  |                                                    Ajax Type Ahead                                                     |     -     |
-|  7  |                                                   Array Cardio Day 2                                                   |     -     |
-|  8  |                                                 Fun with HTML5 Canvas                                                  |     -     |
-|  9  |                                             14 Must Know Dev Tools Tricks                                              |     -     |
-| 10  |                                        Hold Shift to Check Multiple Checkboxes                                         |     -     |
+| no  |                                                          강의 제목                                                           | 수행 날짜 |
+| :-: | :--------------------------------------------------------------------------------------------------------------------------: | :-------: |
+|  1  |        [JavaScript Drum Kit](https://github.com/JeongHwan-dev/javascript30-course/tree/master/01-JavaScript-Drum-Kit)        |  09.01.   |
+|  2  |              [CSS + JS Clock](https://github.com/JeongHwan-dev/javascript30-course/tree/master/02-CSS-JS-Clock)              |  09.02.   |
+|  3  |    [Playing with CSS Variables and JS](https://github.com/JeongHwan-dev/javascript30-course/tree/master/03-CSS-Variables)    |  09.03.   |
+|  4  |          [Array Cardio Day](https://github.com/JeongHwan-dev/javascript30-course/tree/master/04-Array-Cardio-Day1)           |  09.04.   |
+|  5  | [Flex Pannels Image Gallery](https://github.com/JeongHwan-dev/javascript30-course/tree/master/05-Flex-Pannels-Image-Gallery) |  09.05.   |
+|  6  |                                                       Ajax Type Ahead                                                        |     -     |
+|  7  |                                                      Array Cardio Day 2                                                      |     -     |
+|  8  |                                                    Fun with HTML5 Canvas                                                     |     -     |
+|  9  |                                                14 Must Know Dev Tools Tricks                                                 |     -     |
+| 10  |                                           Hold Shift to Check Multiple Checkboxes                                            |     -     |
