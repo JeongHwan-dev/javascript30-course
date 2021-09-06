@@ -39,7 +39,7 @@
 |  3  |    [Playing with CSS Variables and JS](https://github.com/JeongHwan-dev/javascript30-course/tree/master/03-CSS-Variables)    |  09.03.   |
 |  4  |          [Array Cardio Day](https://github.com/JeongHwan-dev/javascript30-course/tree/master/04-Array-Cardio-Day1)           |  09.04.   |
 |  5  | [Flex Pannels Image Gallery](https://github.com/JeongHwan-dev/javascript30-course/tree/master/05-Flex-Pannels-Image-Gallery) |  09.05.   |
-|  6  |                                                       Ajax Type Ahead                                                        |     -     |
+|  6  |            [Ajax Type Ahead](https://github.com/JeongHwan-dev/javascript30-course/tree/master/06-Ajax-Type-Ahead)            |  09.06.   |
 |  7  |                                                      Array Cardio Day 2                                                      |     -     |
 |  8  |                                                    Fun with HTML5 Canvas                                                     |     -     |
 |  9  |                                                14 Must Know Dev Tools Tricks                                                 |     -     |
