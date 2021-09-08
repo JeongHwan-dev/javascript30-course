@@ -41,6 +41,6 @@
 |  5  | [Flex Pannels Image Gallery](https://github.com/JeongHwan-dev/javascript30-course/tree/master/05-Flex-Pannels-Image-Gallery) |  09.05.   |
 |  6  |            [Ajax Type Ahead](https://github.com/JeongHwan-dev/javascript30-course/tree/master/06-Ajax-Type-Ahead)            |  09.06.   |
 |  7  |          [Array Cardio Day2](https://github.com/JeongHwan-dev/javascript30-course/tree/master/07-Array-Cardio-Day2)          |  09.07.   |
-|  8  |                                                    Fun with HTML5 Canvas                                                     |     -     |
+|  8  |      [Fun with HTML5 Canvas](https://github.com/JeongHwan-dev/javascript30-course/tree/master/08-Fun-With-HTML5-Canvas)      |  09.08.   |
 |  9  |                                                14 Must Know Dev Tools Tricks                                                 |     -     |
 | 10  |                                           Hold Shift to Check Multiple Checkboxes                                            |     -     |
