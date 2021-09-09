@@ -32,7 +32,7 @@
 
 ## 📅 챌린지 진행 일정
 
-| no  |                                                       실습 제목                                                        | 수행 날짜 |
+| No  |                                                       실습 제목                                                        | 수행 날짜 |
 | :-: | :--------------------------------------------------------------------------------------------------------------------: | :-------: |
 |  1  |     [JavaScript Drum Kit](https://github.com/JeongHwan-dev/javascript30-course/tree/master/01-JavaScript-Drum-Kit)     |  09.01.   |
 |  2  |        [JS and CSS Clock](https://github.com/JeongHwan-dev/javascript30-course/tree/master/02-JS-and-CSS-Clock)        |  09.02.   |
