@@ -44,3 +44,4 @@
 |  8  |           [Fun with HTML5 Canvas](https://github.com/JeongHwan-dev/javascript30-course/tree/master/08-Fun-with-HTML5-Canvas)           |  09.08.   |
 |  9  |            [Dev Tools Domination](https://github.com/JeongHwan-dev/javascript30-course/tree/master/09-Dev-Tools-Domination)            |  09.09.   |
 | 10  | [Hold Shift and Check Checkboxes](https://github.com/JeongHwan-dev/javascript30-course/tree/master/10-Hold-Shift-and-Check-Checkboxes) |  09.10.   |
+| 11  |             [Custom Video Player](https://github.com/JeongHwan-dev/javascript30-course/tree/master/11-Custom-Video-Player)             |  09.11.   |
