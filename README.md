@@ -1,6 +1,6 @@
 <div align="center">    
   <br />
-  <img src="./readme-assets/images/js30_logo.jpg" alt="JavaScript 30" height="250px" />
+  <img src="./readme-assets/js30_logo.jpg" alt="JavaScript 30" height="250px" />
   <hr />
   <br />
 </div>
@@ -20,7 +20,7 @@
 
 > 2021.09.01. ~ 2021.09.30. 까지 챌린지 수행을 목표로 합니다.
 
-<img src="./readme-assets/images/example-page.png" alt="30 DAYS x 30 VIDEOS" height="400px" />
+<img src="./readme-assets/example-page.png" alt="30 DAYS x 30 VIDEOS" height="400px" />
 
 [🔗 JavaScript 30 바로가기 Click!](https://javascript30.com/) 👈
 
