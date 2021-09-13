@@ -46,3 +46,4 @@
 | 10  | [Hold Shift and Check Checkboxes](https://github.com/JeongHwan-dev/javascript30-course/tree/master/10-Hold-Shift-and-Check-Checkboxes) |  09.10.   |
 | 11  |             [Custom Video Player](https://github.com/JeongHwan-dev/javascript30-course/tree/master/11-Custom-Video-Player)             |  09.11.   |
 | 12  |          [Key Sequence Detection](https://github.com/JeongHwan-dev/javascript30-course/tree/master/12-Key-Sequence-Detection)          |  09.12.   |
+| 13  |              [Slide in on Scroll](https://github.com/JeongHwan-dev/javascript30-course/tree/master/13-Slide-in-on-Scroll)              |  09.13.   |
