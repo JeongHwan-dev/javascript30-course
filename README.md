@@ -32,18 +32,19 @@
 
 ## 📅 챌린지 진행 일정
 
-| No  |                                                               실습 제목                                                                | 수행 날짜 |
-| :-: | :------------------------------------------------------------------------------------------------------------------------------------: | :-------: |
-|  1  |             [JavaScript Drum Kit](https://github.com/JeongHwan-dev/javascript30-course/tree/master/01-JavaScript-Drum-Kit)             |  09.01.   |
-|  2  |                [JS and CSS Clock](https://github.com/JeongHwan-dev/javascript30-course/tree/master/02-JS-and-CSS-Clock)                |  09.02.   |
-|  3  |         [Playing with CSS Variables and JS](https://github.com/JeongHwan-dev/javascript30-course/tree/master/03-CSS-Variables)         |  09.03.   |
-|  4  |               [Array Cardio Day1](https://github.com/JeongHwan-dev/javascript30-course/tree/master/04-Array-Cardio-Day1)               |  09.04.   |
-|  5  |              [Flex Panel Gallery](https://github.com/JeongHwan-dev/javascript30-course/tree/master/05-Flex-Panel-Gallery)              |  09.05.   |
-|  6  |                      [Type Ahead](https://github.com/JeongHwan-dev/javascript30-course/tree/master/06-Type-Ahead)                      |  09.06.   |
-|  7  |               [Array Cardio Day2](https://github.com/JeongHwan-dev/javascript30-course/tree/master/07-Array-Cardio-Day2)               |  09.07.   |
-|  8  |           [Fun with HTML5 Canvas](https://github.com/JeongHwan-dev/javascript30-course/tree/master/08-Fun-with-HTML5-Canvas)           |  09.08.   |
-|  9  |            [Dev Tools Domination](https://github.com/JeongHwan-dev/javascript30-course/tree/master/09-Dev-Tools-Domination)            |  09.09.   |
-| 10  | [Hold Shift and Check Checkboxes](https://github.com/JeongHwan-dev/javascript30-course/tree/master/10-Hold-Shift-and-Check-Checkboxes) |  09.10.   |
-| 11  |             [Custom Video Player](https://github.com/JeongHwan-dev/javascript30-course/tree/master/11-Custom-Video-Player)             |  09.11.   |
-| 12  |          [Key Sequence Detection](https://github.com/JeongHwan-dev/javascript30-course/tree/master/12-Key-Sequence-Detection)          |  09.12.   |
-| 13  |              [Slide in on Scroll](https://github.com/JeongHwan-dev/javascript30-course/tree/master/13-Slide-in-on-Scroll)              |  09.13.   |
+| No  |                                                                실습 제목                                                                 | 수행 날짜 |
+| :-: | :--------------------------------------------------------------------------------------------------------------------------------------: | :-------: |
+|  1  |              [JavaScript Drum Kit](https://github.com/JeongHwan-dev/javascript30-course/tree/master/01-JavaScript-Drum-Kit)              |  09.01.   |
+|  2  |                 [JS and CSS Clock](https://github.com/JeongHwan-dev/javascript30-course/tree/master/02-JS-and-CSS-Clock)                 |  09.02.   |
+|  3  |          [Playing with CSS Variables and JS](https://github.com/JeongHwan-dev/javascript30-course/tree/master/03-CSS-Variables)          |  09.03.   |
+|  4  |                [Array Cardio Day1](https://github.com/JeongHwan-dev/javascript30-course/tree/master/04-Array-Cardio-Day1)                |  09.04.   |
+|  5  |               [Flex Panel Gallery](https://github.com/JeongHwan-dev/javascript30-course/tree/master/05-Flex-Panel-Gallery)               |  09.05.   |
+|  6  |                       [Type Ahead](https://github.com/JeongHwan-dev/javascript30-course/tree/master/06-Type-Ahead)                       |  09.06.   |
+|  7  |                [Array Cardio Day2](https://github.com/JeongHwan-dev/javascript30-course/tree/master/07-Array-Cardio-Day2)                |  09.07.   |
+|  8  |            [Fun with HTML5 Canvas](https://github.com/JeongHwan-dev/javascript30-course/tree/master/08-Fun-with-HTML5-Canvas)            |  09.08.   |
+|  9  |             [Dev Tools Domination](https://github.com/JeongHwan-dev/javascript30-course/tree/master/09-Dev-Tools-Domination)             |  09.09.   |
+| 10  |  [Hold Shift and Check Checkboxes](https://github.com/JeongHwan-dev/javascript30-course/tree/master/10-Hold-Shift-and-Check-Checkboxes)  |  09.10.   |
+| 11  |              [Custom Video Player](https://github.com/JeongHwan-dev/javascript30-course/tree/master/11-Custom-Video-Player)              |  09.11.   |
+| 12  |           [Key Sequence Detection](https://github.com/JeongHwan-dev/javascript30-course/tree/master/12-Key-Sequence-Detection)           |  09.12.   |
+| 13  |               [Slide in on Scroll](https://github.com/JeongHwan-dev/javascript30-course/tree/master/13-Slide-in-on-Scroll)               |  09.13.   |
+| 14  | [JavaScript References VS Copying](https://github.com/JeongHwan-dev/javascript30-course/tree/master/14-JavaScript-References-VS-Copying) |  09.14.   |
