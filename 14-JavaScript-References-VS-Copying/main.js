@@ -108,6 +108,7 @@ const dev2 = JSON.parse(JSON.stringify(wes));
 
 dev.name = 'Wesley';
 dev2.name = 'dev2';
+
 console.log(wes, dev);
 console.log(wes, dev2);
 
