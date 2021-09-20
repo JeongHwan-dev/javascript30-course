@@ -53,3 +53,4 @@
 | 17  |            [Sort Without Articles](https://github.com/JeongHwan-dev/javascript30-course/tree/master/17-Sort-Without-Articles)            |  09.17.   |
 | 18  |      [Adding Up Times with Reduce](https://github.com/JeongHwan-dev/javascript30-course/tree/master/18-Adding-Up-Times-with-Reduce)      |  09.18.   |
 | 19  |                       [Webcam Fun](https://github.com/JeongHwan-dev/javascript30-course/tree/master/19-Webcam-Fun)                       |  09.19.   |
+| 20  |                 [Speech Detection](https://github.com/JeongHwan-dev/javascript30-course/tree/master/20-Speech-Detection)                 |  09.20.   |
