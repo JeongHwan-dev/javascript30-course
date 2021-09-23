@@ -56,3 +56,4 @@
 | 20  |                 [Speech Detection](https://github.com/JeongHwan-dev/javascript30-course/tree/master/20-Speech-Detection)                 |  09.20.   |
 | 21  |                      [Geolocation](https://github.com/JeongHwan-dev/javascript30-course/tree/master/21-Geolocation)                      |  09.21.   |
 | 22  |    [Follow Along Link Highlighter](https://github.com/JeongHwan-dev/javascript30-course/tree/master/22-Follow-Along-Link-Highlighter)    |  09.22.   |
+| 23  |                 [Speech Synthesis](https://github.com/JeongHwan-dev/javascript30-course/tree/master/23-Speech-Synthesis)                 |  09.23.   |
