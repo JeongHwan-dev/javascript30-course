@@ -57,3 +57,4 @@
 | 21  |                      [Geolocation](https://github.com/JeongHwan-dev/javascript30-course/tree/master/21-Geolocation)                      |  09.21.   |
 | 22  |    [Follow Along Link Highlighter](https://github.com/JeongHwan-dev/javascript30-course/tree/master/22-Follow-Along-Link-Highlighter)    |  09.22.   |
 | 23  |                 [Speech Synthesis](https://github.com/JeongHwan-dev/javascript30-course/tree/master/23-Speech-Synthesis)                 |  09.23.   |
+| 24  |                       [Sticky Nav](https://github.com/JeongHwan-dev/javascript30-course/tree/master/24-Sticky-Nav)                       |  09.24.   |
