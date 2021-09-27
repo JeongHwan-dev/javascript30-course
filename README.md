@@ -60,3 +60,4 @@
 | 24  |                                  [Sticky Nav](https://github.com/JeongHwan-dev/javascript30-course/tree/master/24-Sticky-Nav)                                  |  09.24.   |
 | 25  | [Event Capture Propagation Bubbling and Once](https://github.com/JeongHwan-dev/javascript30-course/tree/master/25-Event-Capture-Propagation-Bubbling-and-Once) |  09.25.   |
 | 26  |                     [Stripe Follow Along Nav](https://github.com/JeongHwan-dev/javascript30-course/tree/master/26-Stripe-Follow-Along-Nav)                     |  09.26.   |
+| 27  |                              [Click and Drag](https://github.com/JeongHwan-dev/javascript30-course/tree/master/27-Click-and-Drag)                              |  09.26.   |
