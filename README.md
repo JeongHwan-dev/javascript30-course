@@ -61,3 +61,4 @@
 | 25  | [Event Capture Propagation Bubbling and Once](https://github.com/JeongHwan-dev/javascript30-course/tree/master/25-Event-Capture-Propagation-Bubbling-and-Once) |  09.25.   |
 | 26  |                     [Stripe Follow Along Nav](https://github.com/JeongHwan-dev/javascript30-course/tree/master/26-Stripe-Follow-Along-Nav)                     |  09.26.   |
 | 27  |                              [Click and Drag](https://github.com/JeongHwan-dev/javascript30-course/tree/master/27-Click-and-Drag)                              |  09.27.   |
+| 28  |                      [Video Speed Controller](https://github.com/JeongHwan-dev/javascript30-course/tree/master/28-Video-Speed-Controller)                      |  09.28.   |
