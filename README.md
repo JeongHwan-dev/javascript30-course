@@ -63,3 +63,4 @@
 | 27  |                              [Click and Drag](https://github.com/JeongHwan-dev/javascript30-course/tree/master/27-Click-and-Drag)                              |  09.27.   |
 | 28  |                      [Video Speed Controller](https://github.com/JeongHwan-dev/javascript30-course/tree/master/28-Video-Speed-Controller)                      |  09.28.   |
 | 29  |                             [Countdown Timer](https://github.com/JeongHwan-dev/javascript30-course/tree/master/29-Countdown-Timer)                             |  09.29.   |
+| 29  |                                [Whack A Mole](https://github.com/JeongHwan-dev/javascript30-course/tree/master/30-Whack-A-Mole)                                |  09.30.   |
